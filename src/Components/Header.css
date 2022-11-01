@@ -1,0 +1,33 @@
+.blue{
+    background: linear-gradient(90deg, #96E9FB 0%, #ABECD6 100%);
+    height: 90vh;
+    width: 99%;
+    margin: auto;
+    border-radius: 15px;
+    display: flex;
+   
+}
+.blue h3{
+    color: #2A7CC7;
+    padding-top: 20vh;
+    margin-left: 10vh;
+    font-family: 'Montserrat';
+}
+.blue h1{
+    margin-left: 10vh;    
+}
+.blue p{
+    margin-left: 10vh; 
+}
+.blue button{
+    height: 10vh;
+    margin-left: 10vh;
+    color: white;
+    font-size: 4vh;
+    background-color: #23A6F0;
+}
+.blue img{
+   margin-left: 20vw;
+   margin-top: 0px;
+
+}

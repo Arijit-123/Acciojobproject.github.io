@@ -1,0 +1,19 @@
+.sim{
+    display: flex;
+    
+}
+#marker ul{
+    list-style-type: none;
+    margin-right: 15vh;
+    
+}
+#marker ul li{
+    margin-bottom: 2vh;
+}
+#first{
+    font-weight: bolder;
+}
+button{
+    background-color: #23A6F0;
+    border: white;
+}

@@ -1,0 +1,68 @@
+.App{
+    display: flex;
+    
+    text-align: center;
+    margin: 20 px;
+    
+}
+.Dual{
+    height:450px;
+    width:210vw;
+   
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+   margin: 9px;
+   margin-top: 10vh;
+   }
+
+.jun{
+    font-size: 15px;
+    font-weight: bolder;
+    margin-left: 2px;
+}
+.mean{
+    font-weight: bold;
+    font-size: smaller;
+}
+
+.new {
+    height: 207px;
+    width: 256px;
+    padding-bottom: 4px black;
+    border-radius: 10px 10px 0px 0px;
+}
+.hi{
+    margin-bottom: 80px;
+}
+ #mk{
+    position: absolute;
+    background-color:  #23A6F0;
+   
+    border-radius: 5px;
+    height: 5vh;
+    width: 15vw;
+    
+    font-weight: bolder;
+    
+    margin-left: 25px;
+    border-bottom: 0ch;
+    
+}
+#mk button{
+    background-color: #23A6F0;
+    color: white;
+    border: white;
+}
+
+.oldprice{
+    
+    text-decoration: line-through;
+    font-size: smaller;
+    margin-left: 5px;
+    
+}
+#mark34{
+    margin-left: 2vh;
+    margin-top: 10vh;
+    display: flex;
+    
+}

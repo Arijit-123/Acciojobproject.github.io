@@ -1,0 +1,21 @@
+nav ul{
+    display:flex;
+    list-style-type: none;
+}
+nav ul li{
+    margin-left: 6vh;
+}
+#marker56 {
+    margin-right: 15vh;
+    font-size: 30px;
+    font-weight: bold;
+}
+#nootan{
+    text-decoration:none;
+    color: black;
+}
+#nu{
+    margin-left: 30vh;
+    color: #23A6F0;
+    font-weight: bolder;
+}
